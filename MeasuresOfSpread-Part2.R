@@ -29,4 +29,3 @@ print(paste0("Range of Danceability: ", range(data$danceability)))
 print(paste0("IQR of Danceability: ", IQR(data$danceability)))
 # Calculate Variance for Danceability
 print(paste0("Variance of Danceability: ", var(data$danceability)))
-

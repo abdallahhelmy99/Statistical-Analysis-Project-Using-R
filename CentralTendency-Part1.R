@@ -1,4 +1,4 @@
-# install.packages('DescTools', repos = "http://cran.us.r-project.org") # nolint
+# install.packages('modeest', repos = "http://cran.us.r-project.org") # nolints
 library(modeest, warn.conflicts = FALSE)
 library(dplyr, warn.conflicts = FALSE)
 

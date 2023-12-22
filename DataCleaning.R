@@ -1,3 +1,4 @@
+install.packages("modeest", repos = "http://cran.us.r-project.org")
 library(dplyr)
 library(DescTools)
 library(modeest)
